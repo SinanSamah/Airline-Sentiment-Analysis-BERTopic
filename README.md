@@ -23,13 +23,13 @@ The objective was to move beyond simple sentiment classification and identify th
 ---
 
 ## 📂 Repository Structure
-├── Airline_Sentiment_Report.pdf    # Final detailed project report
+Samah_Ismail_Airline_Sentiment_Analysis.pdf    # Final detailed project report
 
-├── analysis.ipynb                  # Jupyter Notebook with the full analysis
+Bertopic.ipynb                  # Jupyter Notebook with the full analysis
 
-├── wordcloud.png                   # Visualization of key terms
+wordcloud.png                   # Visualization of key terms
 
-└── sentiment_distribution.png      # Visualization of sentiment per topic
+sentiment_distribution.png      # Visualization of sentiment per topic
 
 ---
 
