@@ -45,5 +45,4 @@ sentiment_distribution.png      # Visualization of sentiment per topic
 
 1.  Clone this repository: `git clone https://github.com/SinanSamah/Airline-Sentiment-Analysis-BERTopic.git`
 2.  Create a virtual environment: `python -m venv venv`
-3.  Install the required packages: `pip install -r requirements.txt`
-4.  Open and run the `analysis.ipynb` notebook.
+3.  Open and run the `analysis.ipynb` notebook.
